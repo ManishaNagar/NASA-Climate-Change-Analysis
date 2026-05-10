@@ -129,7 +129,7 @@ The project uses a supervised Machine Learning approach to classify sentiments f
 <img width="440" height="353" alt="image" src="https://github.com/user-attachments/assets/73355306-036e-4ca1-821b-875e125598ad" />
 
 </br>
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Through this project, I learned:
 
@@ -141,20 +141,23 @@ Data Visualization
 Model Evaluation Techniques
 Real-world Data Analysis
 
-🌟 Future Improvements
+# 🌟 Future Improvements
+
 Deploy the model using Streamlit or Flask
 Add Deep Learning models
 Perform real-time sentiment analysis
 Improve accuracy using advanced NLP models
 Build an interactive dashboard
 
-🙋‍♀️ Author
+# 🙋‍♀️ Author
+
 Manisha Nagar
 
-Connect With Me
+# Connect With Me
+
 LinkedIn: www.linkedin.com/in/nagar-manisha </br>
 GitHub: https://github.com/ManishaNagar
 
-⭐ If You Like This Project
+# ⭐ If You Like This Project
 
 Give this repository a ⭐ on GitHub and share your feedback.
